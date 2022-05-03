@@ -1,10 +1,10 @@
 
 # Nada para ler aqui  
 
-git --version // ver versão do git  
-git init // inciar um repositório  
-git branch -m 'main'/'master' // mudar o nome do coiso do git  
-git add 'arquivo' // adicionar um arquivo na "lista de espera"  
+git --version // ver versão do git   
+git init // inciar um repositório   
+git branch -m 'main'/'master' // mudar o nome do coiso do git   
+git add 'arquivo' // adicionar um arquivo na "lista de espera"   
 
 ### Testando markdown  
 
@@ -33,8 +33,8 @@ ___Fusão estilo super saia jeans___
 
 1. Inteligente  
 2. Bonito  
-  1. Muito bonito  
-  2. Cheiroso  
+    1. Muito bonito  
+    2. Cheiroso  
 4. Esperto  
 5. ~~Distraído~~  
 
