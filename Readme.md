@@ -50,6 +50,3 @@ ___Fusão estilo super saia jeans___
 
 [aperte em mim](https://github.com/Fuckners)  
 ![Infelizmente não tenho uma imagem](url da imagem)  
-
-###### Resumo:  
-Só fazer igual no discord
